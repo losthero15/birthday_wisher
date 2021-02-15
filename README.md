@@ -1,8 +1,8 @@
 # birthday_wisher
 
-Do you have a problem remembering your friends and families birthdays ? You always frustrate the people around you at their special day ?
+Do you have a problem remembering your friends and family members birthdays ? You always frustrate the people around you at their special day ?
 
-Those days are over. Send an automated mail to your friends and family and be the good friend/child.
+Those days are over. Send an automated mail to your friends and family and be the good friend/child. Be the first to celebrate their birthday.
 
 ## How to use
 Add your contact list as a csv file. 
